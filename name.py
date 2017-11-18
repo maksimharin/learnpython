@@ -1,0 +1,2 @@
+name = "Maks"
+print(name)
