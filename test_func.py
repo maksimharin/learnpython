@@ -11,3 +11,6 @@ get_vat(price1, vat_rate1)
 
 def get_summ(one, two, delimeter=' '):
     return str(one) + str(delimeter) + str(two)
+
+
+    
